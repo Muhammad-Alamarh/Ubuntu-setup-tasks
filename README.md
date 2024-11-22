@@ -18,3 +18,20 @@ Appication menu > software & updates > other software
 ```bash
 sudo apt install ubuntu-restricted-extras
 ```
+## 5- تثبيت مدير الحزم المتقدم:
+
+**Terminal Command:** 
+```bash
+sudo apt install synaptic
+```
+## 6- تثبيت اداة GNOME - Tweaks لإعدادات النظام المتقدمة:
+
+
+**Terminal Command:** 
+```bash
+sudo apt install gnome-tweaks
+```
+## 6- إضافة اللغة العربية الى لوحة المفاتيح:
+
+system settings > Region & language
+
