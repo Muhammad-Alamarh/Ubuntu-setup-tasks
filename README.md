@@ -9,4 +9,4 @@ sudo apt update && sudo apt upgrade
 ## أضافة مصادر اخرى للبرامج:
 Appication menu > software & updates > other software
 
-![Uploading Screenshot From 2024-11-22 21-19-55.png…]()
+![Screenshot From 2024-11-22 21-19-55](https://github.com/user-attachments/assets/ac60ad4d-1ec8-49d1-9da8-6ec7a5066a95)
